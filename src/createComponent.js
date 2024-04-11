@@ -14,7 +14,7 @@ module.exports = function createComponent(dir, componentName) {
 
     export default function ${componentName}() {
         return (
-            <div className = '${componentName}'>${componentName}</div>
+            <div className='${componentName}'>${componentName}</div>
         );
     }
     `;
