@@ -1,7 +1,7 @@
 {
   "name": "react_componet_generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "react functional component generator",
   "main": "src/index.js",
   "bin": {
     "rfc": "src/index.js"
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["react", "component", "generator"],
   "author": "",
   "license": "ISC"
 }
